@@ -1,6 +1,3 @@
-# Trabalho acadêmico - **Universidade de Mogi das Cruzes**
-Aqui está uma versão melhorada e mais organizada do seu README, com uma linguagem mais clara e estrutura adequada para facilitar a leitura:
-
 # Projeto: Cadastro de Pedidos
 
 ## Descrição
