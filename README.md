@@ -23,6 +23,3 @@ O cliente considera imprescindível que o sistema tenha as seguintes funcionalid
 4. Um procedimento simples para baixa do pedido, para confirmar que o pedido foi atendido.
 5. Liberdade para modelar o sistema de forma completa.
 6. Implementação em Java com Spring Boot.
-
-
-Se quiser, posso ajudar a formatar ainda mais, incluir exemplos de código ou qualquer outra seção que desejar! Quer adicionar algo?
